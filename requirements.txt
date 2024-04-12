@@ -8,4 +8,3 @@ pillow
 hachoir
 requests
 redis
-config

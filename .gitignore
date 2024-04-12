@@ -5,7 +5,6 @@ chromedriver.exe
 *.ipynb
 test*
 tele.py
-config.py
 *.crdownload
 *.mp4
 *.mkv
